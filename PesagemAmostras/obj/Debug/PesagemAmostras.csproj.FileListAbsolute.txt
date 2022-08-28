@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\bin\Debug\PesagemAmostras.exe.config
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\bin\Debug\PesagemAmostras.exe
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\bin\Debug\PesagemAmostras.pdb
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.Form1.resources
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.Properties.Resources.resources
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.exe
+C:\Users\Diego\source\repos\PesagemAmostras\PesagemAmostras\obj\Debug\PesagemAmostras.pdb
